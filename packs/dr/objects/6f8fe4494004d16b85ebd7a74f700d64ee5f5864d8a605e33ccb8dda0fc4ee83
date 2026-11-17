@@ -1,0 +1,13 @@
+# Crisis lead
+
+You lead the response until normal service returns.
+
+:::checklist
+- [ ] Confirm the outage with :contact[it-helpdesk]
+- [ ] Call :contact[communications-lead] and agree the first message
+- [ ] Open the [DR playbook](../playbook.en.md) and start the decision log
+- [ ] Check in with the DR team every 30 minutes
+- [ ] Declare the end of the outage
+:::
+
+If you can't act as crisis lead, hand over by phone and say so in the decision log.

@@ -1,0 +1,15 @@
+# Communications lead
+
+You own every message to staff and clients during the outage.
+
+:::checklist
+- [ ] Agree the first message with :contact[crisis-lead]
+- [ ] Send it to all staff through Emaileri within 30 minutes
+- [ ] Log each message and its time in the [DR playbook](../playbook.en.md) decision log
+- [ ] Send an update at least every two hours
+- [ ] Send the all-clear when the crisis lead declares the end
+:::
+
+:::callout
+Keep messages short: what happened, what people should do, and when the next update comes.
+:::

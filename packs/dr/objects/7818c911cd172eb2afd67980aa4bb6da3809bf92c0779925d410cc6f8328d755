@@ -1,0 +1,23 @@
+# DR playbook
+
+This playbook is for the DR team. Everyone else uses [Start here](start-here.en.md).
+
+## The first hour
+
+1. The crisis lead confirms the outage and opens this playbook.
+2. The communications lead sends the first text message through Emaileri within 30 minutes.
+3. The team meets by phone. Call :contact[crisis-lead] to join.
+
+## Decisions to record
+
+- When the outage started, and how it was confirmed
+- Which services are affected
+- Every message sent to staff or clients, with its time
+
+:::callout{type=warning}
+Never move company data to personal accounts, even to keep working.
+:::
+
+## Closing the incident
+
+The crisis lead declares the end of the outage, and the communications lead sends the all-clear.

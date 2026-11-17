@@ -1,0 +1,12 @@
+# Better prompts
+
+Good prompts give the assistant the same context you'd give a new colleague.
+
+1. Say who the answer is for and what they'll do with it.
+2. Paste the material it should work from, rather than describing it.
+3. Ask for one thing at a time.
+4. Say what a good answer looks like: length, format and tone.
+
+:::callout{type=warning}
+Never paste client data into a tool that isn't approved for it. If you're unsure, ask the helpdesk first.
+:::
